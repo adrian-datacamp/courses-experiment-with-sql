@@ -8,6 +8,7 @@ description : Examples of the intro to SQL for Data Science course
 ```yaml
 type: NormalExercise
 xp: 100
+key: 48e32c8d0c
 ```
 
 `@instructions`
